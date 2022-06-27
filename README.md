@@ -2,7 +2,7 @@
   <br>
 
 <div align="center">
-- 🌱 I’m currently learning ...
+🌱 I’m currently learning ...
   <br>
   <div>
 <a><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
@@ -13,7 +13,7 @@
 </div>
 <br>
 
-- 📫 How to reach me: ...
+📫 How to reach me: ...
 <a href="https://instagram.com/ss__0min">
   <img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
