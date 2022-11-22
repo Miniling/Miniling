@@ -8,9 +8,9 @@
 <a><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/></a>
-<a><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/></a>
-<a><img src="https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python&logoColor=blue&yellow"/></a>
-<a><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=purple"/></a>
+<a><img src="https://img.shields.io/badge/React-Indigo?style=for-the-badge&logo=React&logoColor=61DAFB"/></a>
+<a><img src="https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python&logoColor=blue/"></a>
+<a><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/></a>
 </div>
 <br>
 
