@@ -9,8 +9,8 @@
 <a><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/></a>
 <a><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/></a>
-<a><img src="https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python&logoColor=blue"/></a>
-<a><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python&logoColor=blue&yellow"/></a>
+<a><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=purple"/></a>
 </div>
 <br>
 
@@ -22,7 +22,6 @@
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Miniling&&show_icons=true&theme=blueberry"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohbyul&layout=compact&theme=dracula)](https://github.com/metleeha)
 
