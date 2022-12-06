@@ -5,6 +5,7 @@
 🌱 I’m currently learning ...
   <br>
   <div>
+<a><img src="https://img.shields.io/badge/-3300cc?style=flat-square&logo=c&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/></a>
