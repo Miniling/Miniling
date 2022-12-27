@@ -13,6 +13,7 @@
 <a><img src="https://img.shields.io/badge/Linux-FFCE44?style=flat-square&logo=Linux&logoColor=black"/></a>
 <a><img src="https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python&logoColor=blue"/></a>
 <a><img src="https://img.shields.io/badge/Kotlin-6E2FC7?style=for-the-badge&logo=kotlin&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Android-FFF3E6?style=flat-square&logo=Android&logoColor=009900"/></a>
 </div>
 <br>
 
